@@ -9,7 +9,7 @@ PDF Generation: Converts formatted text and images into a downloadable PDF file.
 Error Handling: Provides feedback and error messages for invalid inputs.
 
 ### A breif idea
-We developed this project to create mimic accurate handwritten assignment during the first covid lockdown. As we were lazy and our professors asked us to submit hadwritten assignment, instead of writing it :p we developed this project. It was hosted on pythonanywhere from May 2020 - June 2023. We also made an Android app for the same. The project is no longer supported by me or any of my teammates. What we learned from the project - "Study hard and written your own assignment".
+We developed this project to mimic accurate handwritten assignment during the first covid lockdown. As we were lazy and our professors asked us to submit hadwritten assignment, instead of writing it :p we developed this project. It was hosted on pythonanywhere from May 2020 - June 2023. We also made an Android app for the same. The project is no longer supported by me or any of my teammates. What we learned from the project - "Study hard and written your own assignment".
 
 If you wish to try it out follow the steps below.
 
